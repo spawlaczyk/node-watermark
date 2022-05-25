@@ -1,0 +1,9 @@
+{
+  "name": "watermark-app",
+  "version": "1.0.0",
+  "description": "Watermark app.",
+  "main": "index.js",
+  "repository": "git@github.com:spawlaczyk/node-watermark.git",
+  "author": "spawlaczyk",
+  "license": "MIT"
+}
